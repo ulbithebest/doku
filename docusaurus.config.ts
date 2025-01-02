@@ -7,8 +7,9 @@ const config: Config = {
   tagline: "HIMATIF Product Documentation",
   favicon: 'img/simplified.png',
 
-  url: 'https://doku.himatif.ulbi.ac.id',
-  baseUrl: '/',
+  // url: 'https://doku.himatif.ulbi.ac.id',
+  url: 'https://ulbithebest.github.io',
+  baseUrl: '/doku/',
 
   organizationName: 'HIMATIF ULBI',
   projectName: 'doku',
