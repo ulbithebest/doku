@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkposts=self.webpackChunkposts||[]).push([[583],{6866:(s,t,u)=>{u.r(t),u.d(t,{default:()=>r});u(6540);var e=u(6347),o=u(4848);function r(){return(0,o.jsx)(e.rd,{to:"/doku/docs/intro"})}}}]);
